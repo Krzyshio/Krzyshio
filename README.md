@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Krzysztof
+- 👀 I’m Junior Developer at cronn GmbH,
+- 🌱 I’m currently learning and working with Java,
+- 📫 How to reach me mailto:krzyszgra@gmail.com
